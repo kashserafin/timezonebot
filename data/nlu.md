@@ -32,3 +32,8 @@
 - Auckland
 - Olso
 - Paris
+
+## intent:thanks
+- thanks
+- great, thanks
+- thank you
