@@ -9,7 +9,7 @@
 ## ask for time zone long
 * greet
   - utter_greet
-* ask_time_zone
+* find_time_zone
   - utter_ask_location
 * city_info
   - utter_finding_time_zone
