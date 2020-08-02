@@ -18,12 +18,15 @@
 - i need you to find a time zone
 - can you find me a time zone?
 - what time is it?
+- tell me the time
 
 ## intent:find_time_zone_for_location
 - what is the time zone of London?
 - time zone of Lisbon
 - do you know the time zone of Berlin
 - i need to know time zone of Mumbai
+- time in Oslo
+- what is the time in Prague
 
 ## intent:city_info
 - London
