@@ -24,3 +24,11 @@
 - time zone of Lisbon
 - do you know the time zone of Berlin
 - i need to know time zone of Mumbai
+
+## intent:city_info
+- London
+- Warsaw
+- San Francisco
+- Auckland
+- Olso
+- Paris
