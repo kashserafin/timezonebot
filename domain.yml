@@ -1,11 +1,10 @@
 intents:
   - greet
   - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
+  - find_time_zone
+  - find_time_zone_for_location
+  - city_info
+  - thanks
 
 responses:
   utter_greet:
