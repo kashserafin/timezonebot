@@ -33,7 +33,7 @@
 - Warsaw
 - San Francisco
 - Auckland
-- Olso
+- Oslo
 - Paris
 
 ## intent:thanks
